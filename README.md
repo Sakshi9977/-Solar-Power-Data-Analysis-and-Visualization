@@ -1,6 +1,6 @@
 # 🌞 Solar Power Data Analysis and Visualization 🌞
 
-⚡ Introduction
+⚡ Introduction:
 
 This project focuses on analyzing solar power generation data from two plants. Our goal is to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
 
@@ -9,7 +9,7 @@ This project focuses on analyzing solar power generation data from two plants. O
 🛠️ Project Type:
 Data Analysis and Visualization
 
-🌐 Deployed Application
+🌐 Deployed Application:
 
 Frontend: Streamlit Dashboard
 
@@ -17,7 +17,7 @@ Data is analyzed and visualized within Streamlit
 
 Database: Data sourced from CSV files, no external database used
 
-✨ Key Insights
+✨ Key Insights:
 
 Peak Power Generation Times: Solar power generation peaks between 10 AM and 2 PM across most plants.
 
@@ -31,7 +31,7 @@ Outliers in Power Output: Sudden drops in power generation were observed in Plan
 
 Maximizing Output: Plants utilizing optimized solar panel angles increased their power generation by 10% on average.
 
-✨ Features
+✨ Features:
 
 🌍 Interactive Filters: Filter data by solar plant, date range, or power output dynamically.
 
@@ -43,7 +43,7 @@ Maximizing Output: Plants utilizing optimized solar panel angles increased their
 
 📝 Top KPIs & Insights: Key insights are highlighted to help stakeholders make informed decisions.
 
-🎨 Design Decisions & Assumptions
+🎨 Design Decisions & Assumptions:
 
 Handling Missing Data: Missing data points were removed to ensure clarity, and outlier data points were visualized but noted.
 
@@ -58,7 +58,7 @@ Filter Data: Select a date range, plant, and other options using sliders and dro
 
 Explore Visualizations: Check out various graphs to analyze performance trends and identify patterns.
 
-💻 Technology Stack
+💻 Technology Stack:
 
 Python: Core programming language for data analysis
 
@@ -68,7 +68,7 @@ Streamlit: Framework for building interactive web apps
 
 Matplotlib & Plotly: Libraries for creating visualizations
 
-🚀 Additional Features
+🚀 Additional Features:
 
 🌟 Dark Mode Support: The app switches between light and dark themes to enhance the user experience.
 
@@ -80,7 +80,7 @@ Matplotlib & Plotly: Libraries for creating visualizations
 
 🖥️ Mobile Responsive: The dashboard is optimized for mobile viewing, ensuring accessibility on all devices.
 
-📝 Future Work
+📝 Future Work:
 
 Integration with live data sources: Automating the data pipeline to pull real-time solar plant data.
 
