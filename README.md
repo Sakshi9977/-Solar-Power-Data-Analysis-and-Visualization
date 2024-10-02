@@ -88,9 +88,6 @@ Predictive Modeling: Adding machine learning algorithms to predict power output 
 
 Optimization Suggestions: Provide actionable insights to optimize plant performance based on KPIs.
 
-🧑‍🤝‍🧑 Contributors
+🧑‍🤝‍🧑 Contributors:
 
-Gaurav Lakshakar (Team Lead)
-Aayush Vishwakarma 
-Sakshi Prajapati
-Shailesh Kumar Singh
+Gaurav Lakshakar (Team Lead),Aayush Vishwakarma ,Sakshi Prajapati,Shailesh Kumar Singh
