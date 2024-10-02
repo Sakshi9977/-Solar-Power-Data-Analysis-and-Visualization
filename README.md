@@ -2,9 +2,9 @@
 
 ⚡ Introduction:
 
-This project focuses on analyzing solar power generation data from two plants. Our goal is to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
+This project focuses on analyzing solar power generation data from two plants. We aim to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
 
-🚀 Core Functionality: The dashboard provides key insights into solar power generation trends, plant performance, and helps identify patterns that could optimize energy production.
+🚀 Core Functionality: The dashboard provides key insights into solar power generation trends, and plant performance, and helps identify patterns that could optimize energy production.
 
 🛠️ Project Type:
 Data Analysis and Visualization
@@ -19,7 +19,7 @@ Database: Data sourced from CSV files, no external database used
 
 ✨ Key Insights:
 
-Peak Power Generation Times: Solar power generation peaks between 10 AM and 2 PM across most plants.
+Peak Power Generation Times: Most plants' solar power generation peaks between 10 AM and 2 PM.
 
 Seasonal Impact: Power generation is highest during summer months, with an average increase of 20% compared to winter months.
 
@@ -90,4 +90,4 @@ Optimization Suggestions: Provide actionable insights to optimize plant performa
 
 🧑‍🤝‍🧑 Contributors:
 
-Gaurav Lakshakar (Team Lead),Aayush Vishwakarma ,Sakshi Prajapati,Shailesh Kumar Singh
+Gaurav Lakshakar (Team Lead), Aayush Vishwakarma , Sakshi Prajapati, Shailesh Kumar Singh
