@@ -90,4 +90,4 @@ Optimization Suggestions: Provide actionable insights to optimize plant performa
 
 🧑‍🤝‍🧑 Contributors:
 
-Gaurav Lakshakar (Team Lead), Aayush Vishwakarma , Sakshi Prajapati, Shailesh Kumar Singh
+Gaurav Lakshakar (Team Lead), Aayush Vishwakarma(Team Member), Sakshi Prajapati(Team Member), Shailesh Kumar Singh(Team Member)
