@@ -2,7 +2,7 @@
 
 ⚡ Introduction
 
-This project focuses on analyzing solar power generation data from multiple plants. Our goal is to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
+This project focuses on analyzing solar power generation data from two plants. Our goal is to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
 
 🚀 Core Functionality: The dashboard provides key insights into solar power generation trends, plant performance, and helps identify patterns that could optimize energy production.
 
