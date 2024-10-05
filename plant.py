@@ -12,8 +12,8 @@ colors = px.colors.qualitative.Plotly
 st.set_page_config(page_title="Solar Power Plant Dashboard", layout="wide")
 
 # Sidebar for user inputs
-st.image("C:Users/ashutosh/Pictures/dta/SOLAR POWER.jpg", width=120)
-st.sidebar.image("C:Users/ashutosh/Pictures/dta/SOLAR POWER.jpg", width=120)
+st.image("assets/SOLAR POWER.jpg", width=120)
+st.sidebar.image("assets/SOLAR POWER.jpg", width=120)
 st.sidebar.title("Solar Power Plant Analysis Dashboard")
 page = st.sidebar.radio("Go to", ["Home", "Insights", "Data Visualization"])
 
