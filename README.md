@@ -1,11 +1,12 @@
 ## Live Streamlit Dashboard
-You can view the live Streamlit dashboard here:[Streamlit Dashboard](https://decarbonization-developers042-dokqglzb9wthau6dhhz2jx.streamlit.app/)
 
-LINK-  https://decarbonization-developers042-dokqglzb9wthau6dhhz2jx.streamlit.app/
+You can view the live Streamlit dashboard here:[Streamlit Dashboard](https://decarbonization-developers042-dokqglzb9wthau6dhhz2jx.streamlit.app/)
 
 # 🌞 Solar Power Data Analysis and Visualization 🌞
 
 ⚡ Introduction:
+
+This project analyzes power generation and weather data from two solar plants over a period of 34 days.
 
 This project focuses on analyzing solar power generation data from two plants. We aim to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
 
