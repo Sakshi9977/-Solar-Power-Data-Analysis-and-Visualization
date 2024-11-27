@@ -5,7 +5,6 @@ You can view the live Streamlit dashboard here:[Streamlit Dashboard](https://dec
 # 🌞 Solar Power Data Analysis and Visualization 🌞
 ![image_alt](https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg)
 
-(D:\Construct_week_project2\WhatsApp Image 2024-11-27 at 14.43.38_027abcc1.jpg)
 
 ⚡ Introduction:
 
