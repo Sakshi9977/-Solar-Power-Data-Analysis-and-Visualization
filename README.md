@@ -4,6 +4,8 @@ You can view the live Streamlit dashboard here:[Streamlit Dashboard](https://dec
 
 # 🌞 Solar Power Data Analysis and Visualization 🌞
 
+(D:\Construct_week_project2\WhatsApp Image 2024-11-27 at 14.43.38_027abcc1.jpg)
+
 ⚡ Introduction:
 
 This project analyzes power generation and weather data from two solar plants over a period of 34 days.
