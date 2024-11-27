@@ -3,9 +3,9 @@
 You can view the live Streamlit dashboard here:[Streamlit Dashboard](https://decarbonization-developers042-dokqglzb9wthau6dhhz2jx.streamlit.app/)
 
 # 🌞 Solar Power Data Analysis and Visualization 🌞
-<p align="center">
-  <img src="https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg" alt="Solar Power Project Logo" width="200">
-</p>
+
+<img src="https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg" alt="Solar Power Project Logo" width="200">
+
 
 
 ⚡ Introduction:
