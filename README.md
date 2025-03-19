@@ -1,7 +1,3 @@
-## Live Streamlit Dashboard
-
-You can view the live Streamlit dashboard here:[Streamlit Dashboard](https://decarbonization-developers042-dokqglzb9wthau6dhhz2jx.streamlit.app/)
-
 # 🌞 Solar Power Data Analysis and Visualization 🌞
 
 <img src="https://github.com/Sakshi9977/-Solar-Power-Data-Analysis-and-Visualization/blob/main/Solar%20Project%20logo.jpg" alt="Solar Power Project Logo" width="200">
@@ -74,29 +70,8 @@ Python: Core programming language for data analysis
 
 Pandas: Used for data cleaning and preprocessing
 
-Streamlit: Framework for building interactive web apps
-
 Matplotlib & Plotly: Libraries for creating visualizations
 
-🚀 Additional Features:
-
-🌟 Dark Mode Support: The app switches between light and dark themes to enhance the user experience.
-
-🔍 Advanced Filtering: Filter by power output ranges, or choose specific date intervals (daily, monthly, seasonal).
-
-📈 Real-time Data Updates: Future iterations will include the ability to fetch and analyze live data.
-
-📋 KPI Summary Section: A quick glance section showing key performance metrics (max, min, average power generation).
-
-🖥️ Mobile Responsive: The dashboard is optimized for mobile viewing, ensuring accessibility on all devices.
-
-📝 Future Work:
-
-Integration with live data sources: Automating the data pipeline to pull real-time solar plant data.
-
-Predictive Modeling: Adding machine learning algorithms to predict power output based on historical trends.
-
-Optimization Suggestions: Provide actionable insights to optimize plant performance based on KPIs.
 
 🧑‍🤝‍🧑 Contributors:
 
